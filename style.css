@@ -20,5 +20,8 @@ ul,a{
 body{
     font-style: normal;
 }
-/* normalize css */
 
+.container{
+    width: 1240px;
+}
+/* normalize css */
