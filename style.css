@@ -28,9 +28,6 @@ body{
     font-style: normal;
     margin: 0;
 }
-/* normalize css */
-
-
 
 .wrapper{
   width: 100%;
@@ -201,3 +198,8 @@ body{
   letter-spacing: 0.5px;
   color: var(--primary-red, #FB7181);
 }
+
+.container{
+    width: 1240px;
+}
+
