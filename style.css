@@ -25,3 +25,84 @@ body{
     width: 1240px;
 }
 /* normalize css */
+.icon{
+    width: 1240px;
+    height: 300px;
+}
+.icons{
+margin-left: 240px;
+margin-top: 50px;
+}
+.refund{
+    margin-left: 280px;
+    margin-top: 50px;
+}
+.support{
+    margin-left: 280px;
+    margin-top: 50px;
+}
+.icon-title{
+    margin-top: 0;
+    margin-left: 250px;
+}
+input{
+    width: 400px;
+    height: 35px;
+    stroke-width: 5px;
+stroke: #BCDDFE;
+margin-left: 350px;
+}
+.btn{
+    width: 100px;
+    height:35px;
+    margin-left: -5px;
+    color: #FFF;
+    background-color: #40BFFF;
+   border-radius: 5px;
+}
+.fotter{
+    margin-top: 80px;
+    width: 1240px;
+    height: 400px;
+    background: #BCDDFE;
+    display: flex;
+}
+.fotter-left{
+    margin-top: 100px;
+    width: 20%;
+    height: 200px;
+   margin-left: 120px;
+}
+.fot{
+    margin-top: 10px;
+    color: #22262A;
+font-family: Poppins;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+margin-bottom: -10px;
+}
+.fot-title{
+    margin-top: 20px;
+}
+.facebook{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.fotter-bottom{
+    width: 1240px;
+    height: 80px;
+    background-color:#BCDDFE;
+    border: 1px beige;
+}
+.bottom-title{
+    color: #C1C8CE;
+font-family: Proxima Nova;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-left: 100px;
+margin-right: 600px;
+}
